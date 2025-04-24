@@ -1,0 +1,33 @@
+body {
+	background-color: #d4e3fb;
+	color: #92d2ff;
+	font-family: "Fredoka", sans-serif;
+}
+
+button {
+	margin: 6px;
+}
+
+.container {
+	background-color: #e20059;
+	border-radius: 15px;
+	padding: 30px;
+	margin: 50px;
+	gap: 30px;
+	justify-content: center;
+}
+
+a {
+	text-decoloration: none;
+	text-decoration:none;
+	color: #92d2ff;
+}
+
+.footer {
+	text-align: center;
+	background-color:#e20059;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	padding: 40px;
+}
